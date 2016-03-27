@@ -1,0 +1,9 @@
+QR code inspector library
+Author: ytoku <ytoku@mma.club.uec.ac.jp>
+License: 2-clause BSD license
+
+Required Libraries
+reedsolo.py:
+    Author: Tomer Filiba
+    Home Page: https://github.com/tomerfiliba/reedsolomon
+    License: Public Domain
